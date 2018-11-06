@@ -1,0 +1,58 @@
+html, body { margin: 0; 
+	}
+
+div {
+	width: 40%;
+	height: 300px;
+	background-color: red;
+	position: relative;
+	}
+
+.espa2 {
+	width: 100%;
+	height: 150px;
+	margin-top: 75px;
+	background-color: yellow;
+	position: absolute;
+	display: inline-block;
+	z-index: +1;
+	}
+
+.dina1 {
+	width: 100%;
+	height: 20px;
+	position: relative;
+	top: 50%;
+	background-color: white;
+
+}
+	
+.dina2 {
+	width: 20px;
+	height: 100%;
+	position: absolute;
+	left: 25%;
+	top: 0%;
+	bottom: 0;
+	background-color: white;
+}
+
+.verde{
+	width: 80%;
+	height: 35%;
+	background-color: green;
+	position: relative;
+	left: 15%;
+
+}
+
+.blanco{
+	width: 80%;
+	height: 35%;
+	background-color: white;
+	position: relative;
+	top: 5px;
+	left: 15%;
+	z-index: +5;
+
+}
