@@ -1,0 +1,26 @@
+.todo{
+	width: 80%;
+	height: 150px;
+	background-color:#b0ccab; 
+	padding:50px;
+	display: inline-block;
+}
+
+.primer-p{
+	width: 75%;
+	height: 30px;
+	position:absolute; 	
+	padding: 10px;
+	display: inline-block;
+	top:30px;
+}
+
+.segundo-p{
+	width: 75%;
+	position:absolute; 
+	left:40px;	
+	padding: 50px;
+	top: 60px;
+	display: inline-block;
+
+}
