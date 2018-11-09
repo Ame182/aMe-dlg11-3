@@ -1,0 +1,30 @@
+div{
+	width: 243px;
+	height: 285px;
+	margin-left: 50%;
+	position: relative;
+	display: inline-block;
+}
+
+.img1{
+	width: 243px;
+	height: 285px;
+	position: absolute;
+	display: inline-block;
+	margin: 0px;
+
+
+}
+
+.img2{
+	width: 243px;
+	height: 285px;
+	display: inline-block;
+	left: 0px;
+	margin: 36px 22px;
+	position: absolute;
+	float: left;
+
+
+
+}
